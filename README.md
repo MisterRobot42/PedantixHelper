@@ -2,7 +2,7 @@
 
 PedantixHelper is a powerful Tampermonkey script that automates the submission of basic words in the [Pedantix game](https://cemantix.certitudes.org/pedantix). 
 
-🕒⚡ Waste your time no more and quickly get to the part where the real fun begin ! 🚀
+🕒⚡ Don't waste your time anymore and quickly get to the part where the real fun begin ! 🚀
 
 ## What is Pedantix ?
 
